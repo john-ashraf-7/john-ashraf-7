@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm John  
 
-<!--
-**john-ashraf-7/john-ashraf-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science student @ The American University in Cairo (AUC)** | Passionate about **Software Engineering, DSA, OOP, and exploring AI/ML**.  
+🌱 I believe in **continuous self-development**, always learning and building both inside and outside the classroom.  
 
-Here are some ideas to get you started:
+🔗 [Portfolio Website](https://portfolio-lbmm.vercel.app/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Pursuing a **B.S. in Computer Science** (expected Dec 2026), holding the **Change Leaders (USAID) Scholarship**.  
+- 🔭 Currently focusing on **software engineering, and full-stack development**.  
+- 💡 Enjoy building projects that merge **creativity, algorithms, and real-world impact**.  
+- 🏋️ Outside tech, I practice **calisthenics and self-discipline**, always striving to grow mentally and physically.  
