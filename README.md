@@ -1,6 +1,6 @@
 # Hi there 👋, I'm John  
 
-💻 **Computer Science student @ The American University in Cairo (AUC)** | Passionate about **Software Engineering, DSA, OOP, and exploring AI/ML**.  
+💻 **Computer Science student @ The American University in Cairo (AUC)** | Passionate about Software Development.  
 🌱 I believe in **continuous self-development**, always learning and building both inside and outside the classroom.  
 
 🔗 [Portfolio Website](https://portfolio-lbmm.vercel.app/)  
